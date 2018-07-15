@@ -26,7 +26,11 @@
 .name{
     font-family:'Chela One', cursive;
 }
-.aboutme{
-    width:20%;
+a{
+    text-decoration:none;
+    color:white;
 }
+#photo{
+    width:500px;
+    height:500px;
 }
